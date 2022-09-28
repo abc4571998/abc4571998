@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB3C7&height=300&section=header&text=Kim%20Seong%20Ae&fontSize=80&animation=twinkling&fontColor=1B1F24)
 
 
-### 🍓 Me 🍓
+## 🍓 Me 🍓
 
  
 <a href="https://www.instagram.com/tori_tole/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>

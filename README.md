@@ -9,8 +9,8 @@
 <br/>
  
 
-<a href="https://www.facebook.com/01039419805"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://www.facebook.com/01039419805"><img src="https://img.shields.io/badge/Hanyang Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:abc4571998@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="mailto:abc4571998@hanyang.ac.kr"><img src="https://img.shields.io/badge/Hanyang Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br />
 
